@@ -1,8 +1,8 @@
-package org.opri.service;
+package org.stdapp.service;
 
 import org.mapstruct.Mapper;
-import org.opri.dto.HouseRecordDto;
-import org.opri.persistance.entity.House;
+import org.stdapp.dto.HouseRecordDto;
+import org.stdapp.persistance.entity.House;
 
 import java.util.List;
 

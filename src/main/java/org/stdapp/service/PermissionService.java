@@ -1,7 +1,5 @@
-package org.opri.service;
+package org.stdapp.service;
 
-import com.sun.security.auth.UserPrincipal;
-import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Component;
 
 @Component("permissionService")

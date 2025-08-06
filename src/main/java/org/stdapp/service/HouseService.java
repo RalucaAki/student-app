@@ -1,8 +1,8 @@
-package org.opri.service;
+package org.stdapp.service;
 
 import lombok.RequiredArgsConstructor;
-import org.opri.dto.HouseRecordDto;
-import org.opri.persistance.HouseRepository;
+import org.stdapp.dto.HouseRecordDto;
+import org.stdapp.persistance.HouseRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;

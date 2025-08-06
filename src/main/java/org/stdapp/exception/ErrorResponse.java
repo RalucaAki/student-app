@@ -1,4 +1,4 @@
-package org.opri.exception;
+package org.stdapp.exception;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;

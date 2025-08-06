@@ -1,9 +1,9 @@
-package org.opri.web;
+package org.stdapp.web;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
-import org.opri.dto.HouseRecordDto;
-import org.opri.service.HouseService;
+import org.stdapp.dto.HouseRecordDto;
+import org.stdapp.service.HouseService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
